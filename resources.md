@@ -1,8 +1,8 @@
 ## References 
 
-### Algorithms are Biased - 
+### Algorithms are Biased
 
-* [Turns Out Algorithms Are Racist](https://newrepublic.com/article/144644/turns-algorithms-racist?utm_content=buffer7f3ea&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Turns Out Algorithms Are Racist](https://newrepublic.com/article/144644/turns-algorithms-racist)
 
    We are at a stage in technology where we need to make wide decisions of how we wish to learn from the past. Do we wish to 
    imitate it or bring about a change. We need to challenge the inequalities that are present in the society. The first stage 
@@ -38,7 +38,7 @@ This article goes into how, even though neural networks and deep learning algori
 
 * [Bias in software to predict future criminals - biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
-### Solutions - 
+### Solutions 
 
 * [Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)
 
@@ -90,16 +90,16 @@ This article goes into how, even though neural networks and deep learning algori
 
 * [Link to White Paper Containing Question Tool](https://cdt.org/issue/privacy-data/digital-decisions/)
 
-### Involved Organizations and Communities - 
+### Involved Organizations and Communities
 
-* [AI NOW](https://ainowinstitute.org/)
+* [AI Now](https://ainowinstitute.org/)
 
   AI NOW is a research center based out of New York University focusing on the social implications of AI. Their research 
   focuses on studying biases made by AIs that are used to make decisions related to housing, criminal justice, and employment. 
   They also focus on determining the bias in datasets used to train AIs. Finally, they study how to safely integrate AIs into 
   algorithms used by critical infrastructures.
 
-* [AI NOW report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)
+* [AI Now report](https://assets.contentful.com/8wprhhvnpfc0/1A9c3ZTCZa2KEYM64Wsc2a/8636557c5fb14f2b74b2be64c3ce0c78/_AI_Now_Institute_2017_Report_.pdf)
 
   The AI NOW report summaries several recommendations made by AI NOW in the implementation of AI algorithms for making 
   decisions in hiring, housing, as well as addressing biases in AI research itself. The report also contains a comprehensive 
@@ -139,11 +139,11 @@ This article goes into how, even though neural networks and deep learning algori
 
 * [Fairness, Accountability, and Transparency in Machine Learning](https://fatconference.org/resources.html)
 
-### Miscellaneous - 
+### Miscellaneous
 
 * [make algorithms accountable](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html)
 
-  This is a NY times article about how there needs to be increased transparency and accountability when it comes to examining 
+  This is an article about how there needs to be increased transparency and accountability when it comes to examining 
   data used by algorithms. A case of where an algorithm detecting the risk of criminal recidivism was biased against black 
   defendants is established as an example for such a need. The article goes over efforts by the European Union to regulate 
   such algorithms as well as recommendations from the White House on holding such algorithms accountable.
