@@ -23,7 +23,7 @@
      * Any feature in the algorithm should be carefully justified.
      * Algorithms to examine bias in AI algorithms should be developed.
 
-* [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
+* [Why AI is still waiting for its ethics transplant](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
 
   This is an interview of Kate Crawford, a cofounder of AI Now, conducted by WIRED magazine. She is asked several questions 
   which include  the current state of ethics in AI, how AI developers need to both hire people outside of computer science to 
@@ -81,7 +81,6 @@
 
 * [How I'm Fighting Bias in Algorithms (Ted Talk)](http://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 
-
    What if you go to the washroom and the tap does not respond to your hands but it does for your your friend’s. Computer 
    Vision uses images to recognize people and objects. But what if we train it with undiversified dataset[^[1]]. It will only 
    respond to white skin because that is only what it has seen. There have been reported indices when a webcam is not able to 
@@ -94,9 +93,7 @@
 	WHY WE CODE MATTERS?[ ^ [1]]
 
    There needs to be a system that audits the existing software for impact that it has on minorities. There is a need to 
-   diversify our data. 
-   
-   [Here](https://www.ajlunited.org/fight) is a website where you can report discrimination that you’ve faced while using AI
+   diversify our data. You can [report](https://www.ajlunited.org/fight) discrimination that you’ve faced while using AI
 
 * [Controlling machine learning algorithms and their biases](https://www.mckinsey.com/business-functions/risk/our-insights/controlling-machine-learning-algorithms-and-their-biases) 
 
@@ -123,7 +120,6 @@
 
 * [DeepMind Ethics Research Group - Google](https://deepmind.com/applied/deepmind-ethics-society/research/)
 
-
   DeepMind's Ethics & Society is a research unit within DeepMind that aims to explore and better understand the real-world    
   impacts of AI. It aims to help technologists put ethics into practice and help society anticipate and control the effects 
   of AI, by enlisting some questions around:
@@ -137,8 +133,7 @@
   Quoting DeepMind's Ethics webpage:
   
   "The development of AI creates important and complex questions. Its impact on society—and on all our lives—is not something    that should be left to chance. Beneficial outcomes and protections against harms must be actively fought for and built-in 
-   from the beginning. But in a field as complex as AI, this is easier said than done"
-  
+   from the beginning. But in a field as complex as AI, this is easier said than done"  
   
   DeepMind being the world leader in artificial intelligence research and its application for positive impact, provides clear   motivation and need to include ethics in AI. It is imperative to have similar ethics groups working hand in hand with the     development teams in all organizations. 
    
