@@ -31,7 +31,9 @@
      
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 
-This article goes into how, even though neural networks and deep learning algorithms have been designed by humans, humanity does not really know how these AIs work. They could use reason or use instinct like real people do. The inherent dangers in the unpredictability of AIs are summarized.
+  This article goes into how, even though neural networks and deep learning algorithms have been designed by humans, humanity 
+  does not really know how these AIs work. They could use reason or use instinct like real people do. The inherent dangers in 
+  the unpredictability of AIs are summarized.
 
 * [How do machines learning algorithms learn bias?](https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb)
    This is an article about how feeding biased data into a machine learning model leads to biases in model predictions.
@@ -44,8 +46,19 @@ This article goes into how, even though neural networks and deep learning algori
 
   Causal models capture social biases and make clear the implicit trade-off between prediction accuracy and fairness in an 
   unfair world.
+  
+  When is your model fair?
+  
+  * An algorithm is fair so long as any protected attributes A are not explicitly used in the decision-making process.
+  
+  * An algorithm is fair if it gives similar predictions to similar individuals.
+  
+  * A predictor Yˆ satisfies demographic parity if P(Yˆ |A = 0) = P(Yˆ |A = 1)
+  
+  * A predictor Yˆ satisfies equality of opportunity if P(Yˆ = 1|A = 0, Y = 1) = P(Yˆ = 1|A = 1, Y = 1).
 
-* [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-methodology)
+  * [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-
+   neighborhoods-higher-car-insurance-premiums-methodology)
 
    As AI becomes more and more complex, it can become difficult for even its own designers understand why it acts the way it 
    does. A nationwide study by the Consumer Federation of America in 2015 found that predominantly African-American 
