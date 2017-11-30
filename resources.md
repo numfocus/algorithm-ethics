@@ -82,15 +82,10 @@
 * [How I'm Fighting Bias in Algorithms (Ted Talk)](http://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 
    What if you go to the washroom and the tap does not respond to your hands but it does for your your friend’s. Computer 
-   Vision uses images to recognize people and objects. But what if we train it with undiversified dataset[^[1]]. It will only 
+   Vision uses images to recognize people and objects. But what if we train it with undiversified dataset? It will only 
    respond to white skin because that is only what it has seen. There have been reported indices when a webcam is not able to 
-   detect black faces.[1] Not only this image recognition softwares have been associating cleaning or the kitchen with women, 
-   for example and sports with men[^[1]].
-
-
-	WHO CODES MATTERS? <sup>1</sup>
-	HOW WE CODE MATTERS?[ ^ [1]]
-	WHY WE CODE MATTERS?[ ^ [1]]
+   detect black faces.[1] Not only this, image recognition softwares have been associating cleaning or the kitchen with women, 
+   for example and sports with men.
 
    There needs to be a system that audits the existing software for impact that it has on minorities. There is a need to 
    diversify our data. You can [report](https://www.ajlunited.org/fight) discrimination that you’ve faced while using AI
