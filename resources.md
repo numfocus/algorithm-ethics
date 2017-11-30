@@ -57,6 +57,7 @@
   
      * A predictor Yˆ satisfies equality of opportunity if P(Yˆ = 1|A = 0, Y = 1) = P(Yˆ = 1|A = 1, Y = 1).
 
+
 * [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-
    neighborhoods-higher-car-insurance-premiums-methodology)
 
