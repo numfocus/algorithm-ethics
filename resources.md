@@ -22,16 +22,16 @@
      * Recommendations are made that lenders monitor changing regulations and test for potential bias.
      * Any feature in the algorithm should be carefully justified.
      * Algorithms to examine bias in AI algorithms should be developed.
-     
-* [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
-
-* [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
 
 * [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
 
   This is an interview of Kate Crawford, a cofounder of AI Now, conducted by WIRED magazine. She is asked several questions 
   which include  the current state of ethics in AI, how AI developers need to both hire people outside of computer science to 
   better understand social implications, and the state of government funding of ethics research under the Trump adminstration.
+     
+* [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
+
+* [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
 
 * [How do machines learning algorithms learn bias?](https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb)
 
