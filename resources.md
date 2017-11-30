@@ -36,9 +36,10 @@
   the unpredictability of AIs are summarized.
 
 * [How do machines learning algorithms learn bias?](https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb)
+   
    An algorithm that has disparate impact is causing people to lose jobs, their social networks, and ensuring the worst cold start problem once someone has been released from prison. At the same time, people likely to commit crimes in the future are let to go free because the algorithm is blind to their criminality.
 
-Machine Learning bias is caused by source data. Data munging is not fun, and thinking about sampling and outliers and population distributions of the training set can be boring, tedious work. Indeed, machines learn bias from the oversights that occur during data munging.
+  Machine Learning bias is caused by source data. Data munging is not fun, and thinking about sampling and outliers and population distributions of the training set can be boring, tedious work. Indeed, machines learn bias from the oversights that occur during data munging.
 
 * [Bias in software to predict future criminals - biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
