@@ -147,11 +147,8 @@
 
 * [IEEE standards for AI ethics](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
 
-* [Website to report bias] (https://www.ajlunited.org/fight)
-
-* [Resources](https://fatconference.org/resources.html)
+* [Fairness, Accountability, and Transparency in Machine Learning](https://fatconference.org/resources.html)
   
-  Fairness, Accountability, and Transparency in Machine Learning.
 
 ### Miscellaneous - 
 
