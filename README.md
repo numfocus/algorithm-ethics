@@ -7,7 +7,7 @@ This repository contains a collection of materials designed to assist in the cre
 
 * [Ethical Machine Learning Tool](EthicalAlgorithmTool.md) - *How can you create ethical machine learning projects?*
 * [Data Science Ethics](DataScienceEthics.md) - *Why is ethical data science important?*
-* [Further Reading](resources.md) - *Supporting materials and resources.*
+* [Further Reading](references.md) - *Supporting materials and resources.*
 
 #### Contributing Authors
 
