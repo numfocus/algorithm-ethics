@@ -1,4 +1,4 @@
-# Ethics in Data Science
+# Guidelines for Ethical Modeling
 
 ![](data/disc_logo.JPG)
 
