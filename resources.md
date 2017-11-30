@@ -25,11 +25,16 @@
      
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 
-* [Algorithms and bias: What lenders need to know](www.whitecase.com/publications/insight/algorithms-and-bias-what-lenders-need-know)
+This article goes into how, even though neural networks and deep learning algorithms have been designed by humans, humanity does not really know how these AIs work. They could use reason or use instinct like real people do. The inherent dangers in the unpredictability of AIs are summarized.
 
 * [WHY AI IS STILL WAITING FOR ITS ETHICS TRANSPLANT](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
 
+  This is an interview of Kate Crawford, a cofounder of AI Now, conducted by WIRED magazine. She is asked several questions 
+  which include  the current state of ethics in AI, how AI developers need to both hire people outside of computer science to 
+  better understand social implications, and the state of government funding of ethics research under the Trump adminstration.
+
 * [How do machines learning algorithms learn bias?](https://towardsdatascience.com/how-do-machine-learning-algorithms-learn-bias-555809a1decb)
+   This is an article about how feeding biased data into a machine learning model leads to biases in model predictions.
 
 * [Bias in software to predict future criminals - biased against blacks](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
@@ -145,10 +150,6 @@
 * [IEEE standards for AI ethics](http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html)
 
 * [Website to report bias] (https://www.ajlunited.org/fight)
-
-  This is an interview of Kate Crawford, a cofounder of AI Now, conducted by WIRED magazine. She is asked several questions 
-  which include  the current state of ethics in AI, how AI developers need to both hire people outside of computer science to 
-  better understand social implications, and the state of government funding of ethics research under the Trump adminstration.
 
 * Upcoming conference-- 
 https://fatconference.org/index.html
