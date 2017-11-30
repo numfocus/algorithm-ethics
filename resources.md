@@ -58,8 +58,7 @@
      * A predictor Yˆ satisfies equality of opportunity if P(Yˆ = 1|A = 0, Y = 1) = P(Yˆ = 1|A = 1, Y = 1).
 
 
-* [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-
-   neighborhoods-higher-car-insurance-premiums-methodology)
+* [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-methodology)
 
    As AI becomes more and more complex, it can become difficult for even its own designers understand why it acts the way it 
    does. A nationwide study by the Consumer Federation of America in 2015 found that predominantly African-American 
