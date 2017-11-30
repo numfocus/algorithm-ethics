@@ -39,6 +39,17 @@
 
   Causal models capture social biases and make clear the implicit trade-off between prediction accuracy and fairness in an 
   unfair world.
+  
+  When is your model fair?
+  
+  * An algorithm is fair so long as any protected attributes A are not explicitly used in the decision-making process.
+  
+  * An algorithm is fair if it gives similar predictions to similar individuals.
+  
+  * A predictor Yˆ satisfies demographic parity if P(Yˆ |A = 0) = P(Yˆ |A = 1).
+  
+  * A predictor Yˆ satisfies equality of opportunity if P(Yˆ = 1|A = 0, Y = 1) = P(Yˆ = 1|A = 1, Y = 1).
+  
 
 * [How We Examined Racial Discrimination in Auto Insurance Prices](https://www.propublica.org/article/minority-neighborhoods-higher-car-insurance-premiums-methodology)
 
