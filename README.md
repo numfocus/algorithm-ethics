@@ -11,7 +11,7 @@ This repository contains a collection of materials designed to assist in the cre
 
 #### Contributing Authors
 
-* [Paige Bailey](http://www.github.com/dynamicwebpaige) (@dynamicwebpaige)
+* [Paige Bailey](http://www.github.com/dynamicwebpaige) (@DynamicWebPaige)
 * [Abhipsa Behera](http://www.github.com/abhipsa92) (@abhipsa92)
 * [Bernie Boscoe](http://www.github.com/bboscoe) (@bboscoe)
 * [Bobby Jackson](http://www.github.com/rcjackson) (@rcjackson)
