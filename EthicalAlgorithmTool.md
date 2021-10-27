@@ -2,6 +2,8 @@
 
 ## So You Want to Build an Ethical Algorithm...
 
+ℹ️ Interactive version: [cdt.info/ddtool](https://cdt.info/ddtool/)
+
 ### Design
 
 #### Concept
